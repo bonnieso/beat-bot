@@ -1,0 +1,15 @@
+{
+  "name": "beat-bot",
+  "version": "0.0.1",
+  "description": "A discord bot that plays sick beats.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bonnie So <contact@bonnieso.com> (http://www.bonnieso.com)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
